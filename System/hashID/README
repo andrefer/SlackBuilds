@@ -1,0 +1,7 @@
+hashID | hash-identifier
+
+Identify the different types of hashes used to encrypt data and especially passwords.
+
+This replaces hash-identifier, which is outdated!
+
+usage: hashid.py --help
